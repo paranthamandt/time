@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "469465472684",
+    "project_id": "time-df447",
+    "storage_bucket": "time-df447.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469465472684:android:32e2e3d897240fa6ac4909",
+        "android_client_info": {
+          "package_name": "com.example.time"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD7W66xdRjE_14s4fXOaQ_AowpTC1eYSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
